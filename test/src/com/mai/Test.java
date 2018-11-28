@@ -30,6 +30,7 @@ public class Test extends HttpServlet {
 		response.setCharacterEncoding("UTF-8");
 		response.setContentType("text/html; charset=UTF-8");
 		response.getWriter().write("西红柿炒番茄比马铃薯炒土豆好吃");
+		
 	}
 
 	/**
